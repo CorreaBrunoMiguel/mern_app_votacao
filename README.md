@@ -1,1 +1,1 @@
-# MERN Aplica de Votao de Votação
+# MERN Aplicativo de Votação
